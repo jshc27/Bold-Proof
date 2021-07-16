@@ -34,4 +34,4 @@ La prueba se basa en la creación de un Diseño Web Responsive Interactivo utili
 ## Licencia 
 The MIT license (MIT)
 ## Mas informacion
-👉 https://www.npmjs.com/package/live-server
+👉 https://docs.github.com/es/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository
