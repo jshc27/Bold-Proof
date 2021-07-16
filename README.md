@@ -25,6 +25,14 @@ El proposito de la prueba se basa en la creación de un Diseño Web Responsive I
     <img src="https://user-images.githubusercontent.com/56690309/125998312-31043518-66d5-4ce8-8b6f-55bd5eaafb66.png"/>
   </div>
   
+ ## ¿Como manejaria las partes del ejercicio que no pude manejar? :bell:
+ 
+ 👉 Los elementos "hoy, esta semana y septiembre" tiene su respectiva <code>ruta</code>, faltó crear texto dinamico para que al dar clic mencione 
+ las ventas correspondientes a cada elemento.<br>
+ <br>
+ :raising_hand: Para dar solucion es necesario crear y generar cambios de <code>estados</code> que acompañados de las <code>props</code> las cuales son pasadas a cada text/elemento va a permitir dinamismo y reutilización de texto cuando se de click en los elementos "hoy, esta semana y septiembre" mostrando la informacion correspondiente a cada uno. Esto evitara que muestre contenido estatico.
+  
+  
 ## Licencia 
 The MIT license (MIT)
 ## Mas informacion
