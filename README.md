@@ -6,7 +6,7 @@ El proposito de la prueba se basa en la creacion de un diseño web responsive ut
 ## Instalación. 
 
  1. Clone este proyecto.
- 2. Vaya a la carpeta del proyecto ( cd bold.co)
+ 2. Vaya a la carpeta del proyecto ( cd bold.co).
  3. Cuando ingrese a la carpeta, haz clic en el archivo html (te muestra por defecto el navegador para abrir el proyecto).
     Si quieres abrirlo a través de la terminal mientras estás en la carpeta bold.co instala Live server: <code>npm install -g live-server</code>
     Cuando esté instalado, introduce el comando live-server en tu terminal y debería abrir el proyecto visualmente.
