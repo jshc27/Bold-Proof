@@ -1,7 +1,7 @@
 # Bold-Proof
 Prueba Web Developer :computer:
 
-El proposito de la prueba se basa en la creacion de un diseño web responsive utilizando HTML, CSS Y Javascript para interacción. 
+El proposito de la prueba se basa en la creación de un Diseño Web Responsive Interactivo utilizando HTML, CSS, Javascript y React.js.  
 
 ## Instalación. 
 
