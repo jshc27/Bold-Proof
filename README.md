@@ -8,9 +8,7 @@ El proposito de la prueba se basa en la creación de un Diseño Web Responsive I
  1. Clone este proyecto.
  2. Vaya a la carpeta del proyecto ( cd bold.co).
  3. Cuando ingrese a la carpeta, haz clic en el archivo html (te muestra por defecto el navegador para abrir el proyecto).
-    Si quieres abrirlo a través de la terminal mientras estás en la carpeta bold.co instala Live server: <code>npm install -g live-server</code>
-    Cuando esté instalado, introduce el comando live-server en tu terminal y debería abrir el proyecto visualmente.
- 4. Utiliza el comando <code>npm run start</code> para ver el proyecto en local.
+ 4. Utiliza el comando <code>npm run start</code> para ver el proyecto en local. Importante que estes ubicado en la carpeta bold.co.
  
 ### npm run build 
  Construye la aplicación para producción en la carpeta de construcción. Agrupa correctamente React en modo de <code>producción</code> y optimiza la compilación para obtener el mejor rendimiento.
