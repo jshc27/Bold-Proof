@@ -14,7 +14,7 @@ El proposito de la prueba se basa en la creación de un Diseño Web Responsive I
  
 ### npm run build 
  Construye la aplicación para producción en la carpeta de construcción. Agrupa correctamente React en modo de <code>producción</code> y optimiza la compilación para obtener el mejor rendimiento.
- La compilación está minificada y los nombres de los archivos incluyen los hashes. Aplicación está lista para ser desplegada.
+ 
 ### npm run deploy 
  Deploy a <code>gh-pages</code>
 
