@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Bold-Proof/static/css/main.20e7fd50.chunk.css",
-    "main.js": "/Bold-Proof/static/js/main.ddbb8270.chunk.js",
-    "main.js.map": "/Bold-Proof/static/js/main.ddbb8270.chunk.js.map",
-    "runtime-main.js": "/Bold-Proof/static/js/runtime-main.0fd5f2bb.js",
-    "runtime-main.js.map": "/Bold-Proof/static/js/runtime-main.0fd5f2bb.js.map",
-    "static/js/2.98e68b6f.chunk.js": "/Bold-Proof/static/js/2.98e68b6f.chunk.js",
-    "static/js/2.98e68b6f.chunk.js.map": "/Bold-Proof/static/js/2.98e68b6f.chunk.js.map",
-    "static/js/3.7b1d75b8.chunk.js": "/Bold-Proof/static/js/3.7b1d75b8.chunk.js",
-    "static/js/3.7b1d75b8.chunk.js.map": "/Bold-Proof/static/js/3.7b1d75b8.chunk.js.map",
+    "main.css": "/Bold-Proof/static/css/main.c5b1c659.chunk.css",
+    "main.js": "/Bold-Proof/static/js/main.0999ac37.chunk.js",
+    "main.js.map": "/Bold-Proof/static/js/main.0999ac37.chunk.js.map",
+    "runtime-main.js": "/Bold-Proof/static/js/runtime-main.646f918e.js",
+    "runtime-main.js.map": "/Bold-Proof/static/js/runtime-main.646f918e.js.map",
+    "static/js/2.7f769b29.chunk.js": "/Bold-Proof/static/js/2.7f769b29.chunk.js",
+    "static/js/2.7f769b29.chunk.js.map": "/Bold-Proof/static/js/2.7f769b29.chunk.js.map",
+    "static/js/3.6b06179c.chunk.js": "/Bold-Proof/static/js/3.6b06179c.chunk.js",
+    "static/js/3.6b06179c.chunk.js.map": "/Bold-Proof/static/js/3.6b06179c.chunk.js.map",
     "index.html": "/Bold-Proof/index.html",
-    "static/css/main.20e7fd50.chunk.css.map": "/Bold-Proof/static/css/main.20e7fd50.chunk.css.map",
-    "static/js/2.98e68b6f.chunk.js.LICENSE.txt": "/Bold-Proof/static/js/2.98e68b6f.chunk.js.LICENSE.txt",
+    "static/css/main.c5b1c659.chunk.css.map": "/Bold-Proof/static/css/main.c5b1c659.chunk.css.map",
+    "static/js/2.7f769b29.chunk.js.LICENSE.txt": "/Bold-Proof/static/js/2.7f769b29.chunk.js.LICENSE.txt",
     "static/media/informacion.b3efc808.png": "/Bold-Proof/static/media/informacion.b3efc808.png",
     "static/media/pregunta.2df9685f.png": "/Bold-Proof/static/media/pregunta.2df9685f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0fd5f2bb.js",
-    "static/js/2.98e68b6f.chunk.js",
-    "static/css/main.20e7fd50.chunk.css",
-    "static/js/main.ddbb8270.chunk.js"
+    "static/js/runtime-main.646f918e.js",
+    "static/js/2.7f769b29.chunk.js",
+    "static/css/main.c5b1c659.chunk.css",
+    "static/js/main.0999ac37.chunk.js"
   ]
 }
