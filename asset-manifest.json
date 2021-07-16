@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/Bold-Proof/static/css/main.bce6c29b.chunk.css",
-    "main.js": "/Bold-Proof/static/js/main.67910138.chunk.js",
-    "main.js.map": "/Bold-Proof/static/js/main.67910138.chunk.js.map",
-    "runtime-main.js": "/Bold-Proof/static/js/runtime-main.3c84ea43.js",
-    "runtime-main.js.map": "/Bold-Proof/static/js/runtime-main.3c84ea43.js.map",
-    "static/js/2.6de41236.chunk.js": "/Bold-Proof/static/js/2.6de41236.chunk.js",
-    "static/js/2.6de41236.chunk.js.map": "/Bold-Proof/static/js/2.6de41236.chunk.js.map",
-    "static/js/3.a1c59e34.chunk.js": "/Bold-Proof/static/js/3.a1c59e34.chunk.js",
-    "static/js/3.a1c59e34.chunk.js.map": "/Bold-Proof/static/js/3.a1c59e34.chunk.js.map",
+    "main.css": "/Bold-Proof/static/css/main.4d538fe3.chunk.css",
+    "main.js": "/Bold-Proof/static/js/main.5f793ed2.chunk.js",
+    "main.js.map": "/Bold-Proof/static/js/main.5f793ed2.chunk.js.map",
+    "runtime-main.js": "/Bold-Proof/static/js/runtime-main.f05cb8ce.js",
+    "runtime-main.js.map": "/Bold-Proof/static/js/runtime-main.f05cb8ce.js.map",
+    "static/js/2.1e5e792a.chunk.js": "/Bold-Proof/static/js/2.1e5e792a.chunk.js",
+    "static/js/2.1e5e792a.chunk.js.map": "/Bold-Proof/static/js/2.1e5e792a.chunk.js.map",
+    "static/js/3.84498448.chunk.js": "/Bold-Proof/static/js/3.84498448.chunk.js",
+    "static/js/3.84498448.chunk.js.map": "/Bold-Proof/static/js/3.84498448.chunk.js.map",
     "index.html": "/Bold-Proof/index.html",
-    "static/css/main.bce6c29b.chunk.css.map": "/Bold-Proof/static/css/main.bce6c29b.chunk.css.map",
-    "static/js/2.6de41236.chunk.js.LICENSE.txt": "/Bold-Proof/static/js/2.6de41236.chunk.js.LICENSE.txt",
+    "static/css/main.4d538fe3.chunk.css.map": "/Bold-Proof/static/css/main.4d538fe3.chunk.css.map",
+    "static/js/2.1e5e792a.chunk.js.LICENSE.txt": "/Bold-Proof/static/js/2.1e5e792a.chunk.js.LICENSE.txt",
+    "static/media/cobroexitoso.376ef3c8.png": "/Bold-Proof/static/media/cobroexitoso.376ef3c8.png",
     "static/media/informacion.b3efc808.png": "/Bold-Proof/static/media/informacion.b3efc808.png",
     "static/media/pregunta.2df9685f.png": "/Bold-Proof/static/media/pregunta.2df9685f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c84ea43.js",
-    "static/js/2.6de41236.chunk.js",
-    "static/css/main.bce6c29b.chunk.css",
-    "static/js/main.67910138.chunk.js"
+    "static/js/runtime-main.f05cb8ce.js",
+    "static/js/2.1e5e792a.chunk.js",
+    "static/css/main.4d538fe3.chunk.css",
+    "static/js/main.5f793ed2.chunk.js"
   ]
 }
