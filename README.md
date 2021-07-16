@@ -23,7 +23,7 @@ El proposito de la prueba se basa en la creación de un Diseño Web Responsive I
     <img src="https://user-images.githubusercontent.com/56690309/125998312-31043518-66d5-4ce8-8b6f-55bd5eaafb66.png"/>
   </div>
   
- ## ¿Como manejaría las partes del ejercicio que no pude manejar? :bell:
+ ## ¿Como manejaría las partes del ejercicio que no pude manejar? 
  
  👉 Los elementos "hoy, esta semana y septiembre" tiene su respectiva <code>ruta</code>, faltó crear texto dinamico para que al dar clic mencione 
  las ventas correspondientes a cada elemento.<br>
